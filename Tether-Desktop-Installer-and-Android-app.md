@@ -1,10 +1,10 @@
 ## Download the appropriate Tether Installer for your PC:
 
-[Windows](http://download.clockworkmod.com/tether/TetherWindowsSetup.msi)
+[Windows](https://download.clockworkmod.com/tether/TetherWindowsSetup.msi)
 
-[Mac](http://download.clockworkmod.com/tether/tether-mac.zip)
+[Mac](https://download.clockworkmod.com/tether/tether-mac.zip)
 
-[Linux](http://download.clockworkmod.com/tether/tether-linux.tgz)
+[Linux](https://download.clockworkmod.com/tether/tether-linux.tgz)
 
 
 
