@@ -2,11 +2,11 @@
 
 [Chrome (recommended)](https://chrome.google.com/webstore/detail/helium-backup/gpglbgbpeobllokpmeagpoagjbfknanl?authuser=1)
 
-[Windows](http://download.clockworkmod.com/carbon/CarbonSetup.msi)
+[Windows](https://download.clockworkmod.com/carbon/CarbonSetup.msi)
 
-[Mac](http://download.clockworkmod.com/carbon/carbon-mac.zip)
+[Mac](https://download.clockworkmod.com/carbon/carbon-mac.zip)
 
-[Linux](http://download.clockworkmod.com/carbon/carbon-linux.tgz)
+[Linux](https://download.clockworkmod.com/carbon/carbon-linux.tgz)
 
 
 
